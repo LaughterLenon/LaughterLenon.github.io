@@ -16,7 +16,7 @@
 title: Laughter Lenon
 email: jakubzaak@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Blog dotyczyżacy zmagań programisty, który wchodzi w świat tworzenia
+  Blog dotyczący zmagań programisty, który wchodzi w świat tworzenia
   gier elektronicznych.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
