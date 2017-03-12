@@ -14,4 +14,4 @@ Jaką obieram taktykę na tą wyczerpującą wyprawę? Postanowiłem zrobić pro
 
 Bez Ciebie drogi wędrowcze nie moge wyruszyć dalej, jako że jakaś tajemna siła wciąż powtarza mi "Przed wyruszeniem w drogę należy zebrać drużynę.". Bądź więc moim wsparciem, strzelcem, magiem, czy też wojownikiem i przeżyjmy tę przygodę wspólnie. Następny wpis jaki zamieszczę w dzienniku, będzie już bardziej związany z samym projektem.
 
-A cóż to! O nie, nie powstrzymam tego! No nic, ja to tylko tak tu zostawię ![picture alt](http://devstyle.pl/wp-content/uploads/2017/01/dsp2017_fb_cover-1024x379.jpg"
+A cóż to! O nie, nie powstrzymam tego! No nic, ja to tylko tak tu zostawię ![picture alt](http://devstyle.pl/wp-content/uploads/2017/01/dsp2017_fb_cover-1024x379.jpg")
